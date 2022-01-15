@@ -33,7 +33,7 @@ import ctypes
 import smtplib
 import datefinder
 import winsound
-import vlc
+#import vlc
 
 
 
